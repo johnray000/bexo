@@ -1,2 +1,0 @@
-# bexo
-Scripts Localbitcoins
